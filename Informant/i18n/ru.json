@@ -1,0 +1,92 @@
+﻿{
+  "BundleTooltipDecorator": "Декоратор пакетов",
+  "BundleTooltipDecorator.Description": "Отмечает элементы, которые необходимы для пакетов",
+  "BundleTooltipDecorator.DecorateLockedBundles": "Украсить заблокированные наборы",
+  "BundleTooltipDecorator.DecorateLockedBundles.Description": "Отображает декоратор пакетов для все еще заблокированных пакетов",
+  "BundleTooltipDecorator.DecorateUnqualifiedBundles": "Украсить неквалифицированные наборы",
+  "BundleTooltipDecorator.DecorateUnqualifiedBundles.Description": "Отображает декоратор пакета для товара, который не соответствует требованиям качества",
+
+  "FieldOfficeDecorator": "Декоратор полевого офиса",
+  "FieldOfficeDecorator.Description": "Отмечает элементы, которые необходимы для полевого офиса острова",
+
+  "RarecrowDecorator": "Декоратор Редких пугало",
+  "RarecrowDecorator.Description": "Отмечает предметы, которые необходимы для коллекции Редких пугало",
+
+  "SeedTooltipDecorator": "Декоратор предварительного просмотра семян",
+  "SeedTooltipDecorator.Description": "Предварительный просмотр семенного продукта и его продажной стоимости",
+
+  "SellPriceDisplayable": "Декоратор цены продажи",
+  "SellPriceDisplayable.Description": "Добавляет цену продажи в нижней части подсказки",
+
+  "MuseumDecorator": "Музейный декоратор",
+  "MuseumDecorator.Description": "Отмечает предметы, которые нужны музею",
+
+  "NewRecipeDisplayable": "Новый декоратор рецептов",
+  "NewRecipeDisplayable.Description": "Отмечает рецепты, которые еще не приготовлены /не обработаны",
+
+  "ShippingBinDecorator": "Декоратор поставки",
+  "ShippingBinDecorator.Description": "Отмечает товары, которые еще не были отправлены",
+  "ShippingBinDecorator.TrackingType": "Тип отслеживания поставки",
+  "ShippingBinDecorator.TrackingType.All": "Вся коллекция",
+  "ShippingBinDecorator.TrackingType.Collection": "Только поставка",
+
+  "AnimalTooltipGenerator": "Подсказка для животных",
+  "AnimalTooltipGenerator.Description": "Отображает дополнительную информацию для сельскохозяйственных животных",
+  "AnimalTooltipGenerator.DecoratePet": "Показать питомца",
+  "AnimalTooltipGenerator.DecoratePet.Description": "Отображает информацию о питомце",
+
+  "CropTooltipGenerator": "Всплывающая подсказка по растениям",
+  "CropTooltipGenerator.Description": "Всплывающая подсказка, которая отображает тип урожая и оставшиеся дни до сбора урожая",
+  "CropTooltipGenerator.0DaysLeft": "Готов к сбору урожая",
+  "CropTooltipGenerator.1DayLeft": "Остался 1 день",
+  "CropTooltipGenerator.XDaysLeft": "Осталось {{X}} дней",
+  "CropTooltipGenerator.Dead": "Мертв",
+  "CropTooltipGenerator.DecorateFertilizer": "Отображение удобрений",
+  "CropTooltipGenerator.DecorateFertilizer.Description": "Отображает удобрение почвы на всплывающей подсказке",
+
+  "FruitTreeTooltipGenerator": "Подсказка для фруктовых деревьев",
+  "FruitTreeTooltipGenerator.Description": "Всплывающая подсказка, отображающая тип фруктового дерева и оставшиеся дни до сбора урожая",
+
+  "TeaBushTooltipGenerator": "Подсказка чайного куста",
+  "TeaBushTooltipGenerator.Description": "Подсказка, отображающая оставшиеся дни чайного куста",
+
+  "MachineTooltipGenerator": "Подсказка для машины",
+  "MachineTooltipGenerator.Description": "Подсказка, отображающая тип результата и оставшееся время",
+  "MachineTooltipGenerator.Finished": "Завершено",
+  "MachineTooltipGenerator.CannotBeUnloaded": "Невозможно выгрузить",
+  "MachineTooltipGenerator.ForNextQuality": "{{X}} для следующего качества",
+  "MachineTooltipGenerator.ForTotal": "Всего {{X}}",
+
+  "TreeTooltipGenerator": "Подсказка дерева",
+  "TreeTooltipGenerator.Description": "Подсказка, отображающая тип дерева",
+  "TreeTooltipGenerator.Type1": "Дуб",
+  "TreeTooltipGenerator.Type2": "Кленовое дерево",
+  "TreeTooltipGenerator.Type3": "Сосна",
+  "TreeTooltipGenerator.Type6": "Пальма",
+  "TreeTooltipGenerator.Type7": "Грибное дерево",
+  "TreeTooltipGenerator.Type8": "Дерево красного дерева",
+  "TreeTooltipGenerator.Type9": "Пальма",
+  "TreeTooltipGenerator.Type10": "Замшелое дикое дерево",
+  "TreeTooltipGenerator.Type13": "Мистическое дерево",
+  "TreeTooltipGenerator.MossCovered": "Покрытый мхом {{X}}",
+  "TreeTooltipGenerator.ShowGrowthStage": "Отображение этапа дерева",
+  "TreeTooltipGenerator.ShowGrowthStage.Description": "Отображает стадию роста дерева (в числовой форме)",
+  "TreeTooltipGenerator.ShowGrowthStage.GrowthStage": "Стадия {{N}} из {{T}}",
+  "TreeTooltipGenerator.ShowGrowthStage.MatureStage": "Спелый",
+
+  "Config.Decorators.GeneralSection": "Декораторы - Общие",
+  "Config.Decorators.Visibility": "Декораторы - Видимость",
+  "Config.TooltipGenerators.GeneralSection": "Подсказки - Общие",
+  "Config.TooltipGenerators.Visibility": "Подсказки - Видимость",
+  "Config.TooltipGenerators.ShowModSource": "Подсказки - Показать источник мода",
+
+  "Config.TooltipTrigger": "Триггер всплывающей подсказки",
+  "Config.TooltipTrigger.Hover": "При наведении",
+  "Config.TooltipTrigger.ButtonHeld": "Удерживаемая кнопка вкл.",
+  "Config.TooltipTriggerButton": "Кнопка всплывающей подсказки",
+
+  "Config.HideMachineTooltips": "Скрыть подсказки для машин",
+  "Config.HideMachineTooltips.ForNonMachines": "Для не-машин",
+  "Config.HideMachineTooltips.ForChests": "Для сундуков",
+  "Config.HideMachineTooltips.Never": "Никогда"
+}
